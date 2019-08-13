@@ -533,7 +533,7 @@ input, select, textarea {
 					padding-top: 5em;
 				}
 
-		@media screen and (max-width: 1800px) {
+		@media screen and (max-width: 1600px) {
 
 			.row {
 				display: flex;
@@ -2980,7 +2980,7 @@ input, select, textarea {
 
 /* XLarge */
 
-	@media screen and (max-width: 1800px) {
+	@media screen and (max-width: 1600px) {
 
 		/* Basic */
 

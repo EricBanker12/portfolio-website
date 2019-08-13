@@ -17,13 +17,13 @@
 				parallax: true,
 
 			// Parallax factor (lower = more intense, higher = less intense).
-				parallaxFactor: 20
+				parallaxFactor: 10
 
 		};
 
 	// Breakpoints.
 		breakpoints({
-			xlarge:  [ '1281px',  '1800px' ],
+			xlarge:  [ '1281px',  '1600px' ],
 			large:   [ '981px',   '1280px' ],
 			medium:  [ '737px',   '980px'  ],
 			small:   [ '481px',   '736px'  ],
