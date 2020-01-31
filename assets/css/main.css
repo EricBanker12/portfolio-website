@@ -3235,3 +3235,17 @@ input, select, textarea {
  #header h1, #footer .icons a, #footer .copyright {
     color: #aaa
 }
+
+#header ul {
+	list-style: none;
+}
+
+@media screen and (max-width: 980px) {
+
+	#header ul {	
+		display: flex;
+		justify-content: space-evenly;
+		flex-wrap: wrap;
+	}
+
+}
